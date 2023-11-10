@@ -1,0 +1,269 @@
+[22-Apr-2023 23:37:06 Asia/Shanghai] PHP Parse error:  syntax error, unexpected ';' in /www/myself/php72/index.php on line 2
+[22-Apr-2023 23:37:11 Asia/Shanghai] PHP Parse error:  syntax error, unexpected ';' in /www/myself/php72/index.php on line 2
+[06-May-2023 16:59:58 Asia/Shanghai] PHP Fatal error:  Uncaught Error: Cannot access private property Card::$color in /www/myself/php72/1.php:85
+Stack trace:
+#0 /www/myself/php72/1.php(190): sortCards(Array)
+#1 {main}
+  thrown in /www/myself/php72/1.php on line 85
+[06-May-2023 17:00:35 Asia/Shanghai] PHP Fatal error:  Uncaught Error: Cannot access private property Card::$color in /www/myself/php72/1.php:85
+Stack trace:
+#0 /www/myself/php72/1.php(190): sortCards(Array)
+#1 {main}
+  thrown in /www/myself/php72/1.php on line 85
+[06-May-2023 17:02:17 Asia/Shanghai] PHP Fatal error:  Uncaught Error: Cannot access private property Card::$color in /www/myself/php72/1.php:85
+Stack trace:
+#0 /www/myself/php72/1.php(190): sortCards(Array)
+#1 {main}
+  thrown in /www/myself/php72/1.php on line 85
+[06-May-2023 17:03:21 Asia/Shanghai] PHP Notice:  Undefined index:  in /www/myself/php72/1.php on line 176
+[06-May-2023 17:03:21 Asia/Shanghai] PHP Warning:  Invalid argument supplied for foreach() in /www/myself/php72/1.php on line 176
+[06-May-2023 17:04:01 Asia/Shanghai] PHP Parse error:  syntax error, unexpected end of file in /www/myself/php72/1.php on line 193
+[06-May-2023 17:04:02 Asia/Shanghai] PHP Parse error:  syntax error, unexpected end of file in /www/myself/php72/1.php on line 193
+[06-May-2023 17:05:00 Asia/Shanghai] PHP Parse error:  syntax error, unexpected end of file in /www/myself/php72/1.php on line 193
+[06-May-2023 17:07:11 Asia/Shanghai] PHP Fatal error:  Uncaught Error: Call to undefined function rray_slice() in /www/myself/php72/1.php:194
+Stack trace:
+#0 {main}
+  thrown in /www/myself/php72/1.php on line 194
+[06-May-2023 17:07:11 Asia/Shanghai] PHP Fatal error:  Uncaught Error: Call to undefined function rray_slice() in /www/myself/php72/1.php:194
+Stack trace:
+#0 {main}
+  thrown in /www/myself/php72/1.php on line 194
+[06-May-2023 17:07:12 Asia/Shanghai] PHP Fatal error:  Uncaught Error: Call to undefined function rray_slice() in /www/myself/php72/1.php:194
+Stack trace:
+#0 {main}
+  thrown in /www/myself/php72/1.php on line 194
+[06-May-2023 17:07:12 Asia/Shanghai] PHP Fatal error:  Uncaught Error: Call to undefined function rray_slice() in /www/myself/php72/1.php:194
+Stack trace:
+#0 {main}
+  thrown in /www/myself/php72/1.php on line 194
+[06-May-2023 17:07:13 Asia/Shanghai] PHP Fatal error:  Uncaught Error: Call to undefined function rray_slice() in /www/myself/php72/1.php:194
+Stack trace:
+#0 {main}
+  thrown in /www/myself/php72/1.php on line 194
+[06-May-2023 17:07:13 Asia/Shanghai] PHP Fatal error:  Uncaught Error: Call to undefined function rray_slice() in /www/myself/php72/1.php:194
+Stack trace:
+#0 {main}
+  thrown in /www/myself/php72/1.php on line 194
+[06-May-2023 17:08:31 Asia/Shanghai] PHP Notice:  Undefined index:  in /www/myself/php72/1.php on line 176
+[06-May-2023 17:08:31 Asia/Shanghai] PHP Warning:  Invalid argument supplied for foreach() in /www/myself/php72/1.php on line 176
+[06-May-2023 17:08:32 Asia/Shanghai] PHP Notice:  Undefined index:  in /www/myself/php72/1.php on line 176
+[06-May-2023 17:08:32 Asia/Shanghai] PHP Warning:  Invalid argument supplied for foreach() in /www/myself/php72/1.php on line 176
+[06-May-2023 17:08:45 Asia/Shanghai] PHP Notice:  Undefined index:  in /www/myself/php72/1.php on line 176
+[06-May-2023 17:08:45 Asia/Shanghai] PHP Warning:  Invalid argument supplied for foreach() in /www/myself/php72/1.php on line 176
+[06-May-2023 17:09:04 Asia/Shanghai] PHP Notice:  Undefined index:  in /www/myself/php72/1.php on line 176
+[06-May-2023 17:09:04 Asia/Shanghai] PHP Warning:  Invalid argument supplied for foreach() in /www/myself/php72/1.php on line 176
+[06-May-2023 17:09:05 Asia/Shanghai] PHP Notice:  Undefined index:  in /www/myself/php72/1.php on line 176
+[06-May-2023 17:09:05 Asia/Shanghai] PHP Warning:  Invalid argument supplied for foreach() in /www/myself/php72/1.php on line 176
+[06-May-2023 18:21:37 Asia/Shanghai] PHP Fatal error:  Cannot use "self" when no class scope is active in /www/myself/php72/2.php on line 199
+[06-May-2023 18:21:38 Asia/Shanghai] PHP Fatal error:  Cannot use "self" when no class scope is active in /www/myself/php72/2.php on line 199
+[06-May-2023 18:21:38 Asia/Shanghai] PHP Fatal error:  Cannot use "self" when no class scope is active in /www/myself/php72/2.php on line 199
+[06-May-2023 18:34:09 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:09 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:09 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:09 Asia/Shanghai] PHP Notice:  Undefined offset: 13 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:09 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:09 Asia/Shanghai] PHP Notice:  Undefined offset: 13 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:09 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:09 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:09 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:09 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:09 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:09 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:09 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:09 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 193
+[06-May-2023 18:34:09 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 194
+[06-May-2023 18:34:09 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 193
+[06-May-2023 18:34:28 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:28 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:28 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:28 Asia/Shanghai] PHP Notice:  Undefined offset: 13 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:28 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:28 Asia/Shanghai] PHP Notice:  Undefined offset: 13 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:28 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:28 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:28 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:28 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:28 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:28 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:28 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:28 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 193
+[06-May-2023 18:34:28 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 194
+[06-May-2023 18:34:28 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 193
+[06-May-2023 18:34:28 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:28 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:28 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:28 Asia/Shanghai] PHP Notice:  Undefined offset: 13 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:28 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:28 Asia/Shanghai] PHP Notice:  Undefined offset: 13 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:28 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:28 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:28 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:28 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:28 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:28 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:28 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:28 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 193
+[06-May-2023 18:34:28 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 194
+[06-May-2023 18:34:28 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 193
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 13 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 13 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 193
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 194
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 193
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 13 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 13 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 193
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 194
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 193
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 13 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 13 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 193
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 194
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 193
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 13 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 13 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 193
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 194
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 193
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 13 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 13 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 147
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 193
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 194
+[06-May-2023 18:34:29 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 193
+[06-May-2023 18:59:11 Asia/Shanghai] PHP Notice:  Undefined offset: 4 in /www/myself/php72/3.php on line 58
+[06-May-2023 18:59:59 Asia/Shanghai] PHP Notice:  Undefined offset: 4 in /www/myself/php72/3.php on line 58
+[06-May-2023 19:02:11 Asia/Shanghai] PHP Notice:  Undefined offset: 4 in /www/myself/php72/3.php on line 58
+[06-May-2023 19:02:50 Asia/Shanghai] PHP Notice:  Undefined offset: 4 in /www/myself/php72/3.php on line 58
+[06-May-2023 19:02:52 Asia/Shanghai] PHP Notice:  Undefined offset: 4 in /www/myself/php72/3.php on line 58
+[06-May-2023 19:02:53 Asia/Shanghai] PHP Notice:  Undefined offset: 4 in /www/myself/php72/3.php on line 58
+[06-May-2023 19:02:53 Asia/Shanghai] PHP Notice:  Undefined offset: 4 in /www/myself/php72/3.php on line 58
+[06-May-2023 19:02:54 Asia/Shanghai] PHP Notice:  Undefined offset: 4 in /www/myself/php72/3.php on line 58
+[06-May-2023 19:06:36 Asia/Shanghai] PHP Fatal error:  Cannot redeclare sortCards() (previously declared in /www/myself/php72/1.php:96) in /www/myself/php72/1.php on line 221
+[06-May-2023 19:08:11 Asia/Shanghai] PHP Notice:  Undefined offset: 4 in /www/myself/php72/1.php on line 105
+[06-May-2023 21:03:29 Asia/Shanghai] PHP Notice:  Undefined offset: 14 in /www/myself/php72/4.php on line 167
+[09-May-2023 21:26:34 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 146
+[09-May-2023 21:26:34 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 147
+[09-May-2023 21:26:34 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[09-May-2023 21:26:34 Asia/Shanghai] PHP Notice:  Undefined offset: 13 in /www/myself/php72/2.php on line 147
+[09-May-2023 21:26:34 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[09-May-2023 21:26:34 Asia/Shanghai] PHP Notice:  Undefined offset: 13 in /www/myself/php72/2.php on line 147
+[09-May-2023 21:26:34 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 146
+[09-May-2023 21:26:34 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 147
+[09-May-2023 21:26:34 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[09-May-2023 21:26:34 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 146
+[09-May-2023 21:26:34 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 147
+[09-May-2023 21:26:34 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[09-May-2023 21:26:34 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[09-May-2023 21:26:34 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 193
+[09-May-2023 21:26:34 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 194
+[09-May-2023 21:26:34 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 193
+[09-May-2023 21:26:40 Asia/Shanghai] PHP Warning:  shell_exec(): Unable to execute '{
+	&quot;resultCode&quot;: &quot;200&quot;,
+	&quot;message&quot;: &quot;成功获取&quot;,
+	&quot;data&quot;: [{
+		&quot;id&quot;: 21564,
+		&quot;answer&quot;: &quot;4&quot;,
+		&quot;status&quot;: 1,
+		&quot;multipleFlag&quot;: 0,
+		&quot;nid&quot;: 146,
+		&quot;releaseTime&quot;: &quot;Nov 1, 2022 12:00:00 AM&quot;,
+		&quot;list&quot;: [{
+			&quot;id&quot;: 97921,
+			&quot;questionId&quot;: 21564,
+			&quot;content&quot;: &quot;28&quot;,
+			&quot;sort&quot;: 1,
+			&quot;flag&quot;: 0,
+			&quot;mask&quot;: &quot;A&quot;
+		}, {
+			&quot;id&quot;: 97922,
+			&quot;questionId&quot;: 21564,
+			&quot;content&quot;: &quot;16&quot;,
+			&quot;sort&quot;: 2,
+			&quot;flag&quot;: 0,
+			&quot;mask&quot;: &quot;B&quot;
+		}, {
+			&quot;id&quot;: 97923,
+			&quot;questionId&quot;: 21564,
+			&quot;content&quot;: &quot;10&quot;,
+			&quot;sort&quot;: 3,
+			&quot;flag&quot;: 0,
+			&quot;mask&quot;: &quot;C&quot;
+		}, {
+			&quot;id&quot;: 97924,
+			&quot;questionId&quot;: 21564,
+			&quot;content&q in /www/myself/php72/1.php on line 3
+[09-May-2023 21:28:09 Asia/Shanghai] PHP Parse error:  syntax error, unexpected 'resultCode' (T_STRING) in /www/myself/php72/1.php on line 4
+[10-May-2023 14:16:59 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 146
+[10-May-2023 14:16:59 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 147
+[10-May-2023 14:16:59 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[10-May-2023 14:16:59 Asia/Shanghai] PHP Notice:  Undefined offset: 13 in /www/myself/php72/2.php on line 147
+[10-May-2023 14:16:59 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[10-May-2023 14:16:59 Asia/Shanghai] PHP Notice:  Undefined offset: 13 in /www/myself/php72/2.php on line 147
+[10-May-2023 14:16:59 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 146
+[10-May-2023 14:16:59 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 147
+[10-May-2023 14:16:59 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[10-May-2023 14:16:59 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 146
+[10-May-2023 14:16:59 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 147
+[10-May-2023 14:16:59 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[10-May-2023 14:16:59 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 146
+[10-May-2023 14:16:59 Asia/Shanghai] PHP Notice:  Undefined offset: 0 in /www/myself/php72/2.php on line 193
+[10-May-2023 14:16:59 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 194
+[10-May-2023 14:16:59 Asia/Shanghai] PHP Notice:  Undefined offset: 16 in /www/myself/php72/2.php on line 193
+[04-Jun-2023 09:36:54 Asia/Shanghai] PHP Fatal error:  Cannot use [] for reading in /www/myself/web/app/Http/Controllers/Home/IndexController.php on line 356
+[05-Jun-2023 12:45:18 Asia/Shanghai] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Home\IndexController::getListBaike1() in /www/myself/web/app/Http/Controllers/Home/IndexController.php on line 221
+[15-Jun-2023 13:17:26 Asia/Shanghai] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /www/myself/web/app/Repositories/Home/SHttpRepositories.php on line 84
